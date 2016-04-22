@@ -1,1 +1,1 @@
-# This practice remote of git essentials
+# This is the practice remote of git essentials
